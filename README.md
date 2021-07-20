@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fslice
+- 👀 I’m interested in game design, pixel art, and music composition.
+- 🌱 I’m currently learning Godot and GDScript.
+- 💞️ I’m working on a 2D, open world, RPG.
